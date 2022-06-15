@@ -1,1 +1,1 @@
-Nurhikma-API.000webhost.com
+nurhikma-api.000webhostapp.com
